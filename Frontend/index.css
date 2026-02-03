@@ -1,0 +1,18 @@
+body{
+background-color: navajowhite; text-align: center; border: 50px ;
+ border-style: solid;
+ border-color: red;
+ margin: 1opx 20px;
+ background-repeat: no-repeat;
+ background-size: cover;
+ 
+
+
+
+
+}
+
+
+nav,a{
+    font-size: 20px;
+}

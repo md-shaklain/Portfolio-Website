@@ -1,0 +1,324 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: white;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.row {
+    background-color: black;
+    padding: 20px 0px;
+}
+
+.container {
+    width: 80%;
+    margin: 0px auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+ul li {
+    list-style: none;
+    right: 200px;
+}
+
+a {
+    text-decoration: none;
+}
+.home{
+    color: #f41606;
+    
+}
+.row .container .logo {
+    color: white;
+    font-size: 30px;
+}
+
+.row .container ul {
+    display: flex;
+}
+
+.row .container ul li a {
+    padding: 0px 10px;
+    color: white;
+}
+
+.row .container {
+    color: white;
+}
+
+.row .container ul i {
+    padding: 0px 10px;
+    color: white;
+
+}
+
+
+.row1 {
+    background-image: url("image/gym.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 500px;
+
+}
+
+.row1 .container {
+    display: block;
+    text-align: center;
+
+    padding-top: 50px;
+}
+
+.container p,
+h1,
+button {
+    padding: 15px 0px;
+    color: white;
+}
+
+.container p {
+    color: whitesmoke;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.row1 .container button {
+    color: red;
+    border: 2px solid red;
+    width: 130px;
+    height: 47px;
+    background: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background: linear-gradient(red, blue, green);
+}
+
+span {
+    color: whitesmoke;
+
+}
+
+.row2 {
+    background-color: black;
+    height: 500px;
+}
+
+.container2 {
+    width: 80%;
+    margin: 0px auto;
+
+    display: inline-flex;
+}
+
+.row2 .container2 {
+    margin-left: 20%;
+
+}
+
+.container2 .first {
+    padding: 50px 0px;
+
+
+
+}
+
+.first .para1 {
+    font-size: 17px;
+    color: rgba(250, 235, 215, 0.758);
+    letter-spacing: 1px;
+    padding: 10px 0px;
+}
+
+.first .para2 {
+    font-size: 14px;
+    color: rgba(250, 235, 215, 0.505);
+    word-spacing: 1px;
+    padding: 12px 0px;
+    letter-spacing: 0.5px;
+}
+
+.first #btn {
+    color: white;
+
+    width: 340px;
+    background-color: #f41606;
+    font-weight: bolder;
+    border: none;
+
+}
+
+.first {
+   
+    width: 35%;
+     border-right: 2px solid rgba(250, 235, 215, 0.505);
+  
+   
+
+
+
+}
+
+.container2 .second {
+    padding: 50px 0px;
+    margin-left: 100px;
+    
+   
+}
+.second{
+ 
+ padding-right: 300px;
+ 
+
+}
+
+.second p {
+    font-size: 17px;
+    color: white;
+    padding: 8px 0px;
+}
+
+.second span {
+    font-size: 16px;
+    color: rgba(250, 235, 215, 0.505);
+}
+
+.row3 {
+    background-color: white;
+
+}
+
+.container3 {
+    width: 80%;
+    margin: 0px auto;
+    height: 400px;
+}
+
+.para3 span {
+    color: white;
+}
+
+.row3 .container3 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+p .sp {
+    color: rgba(218, 64, 72, 0.774);
+    ;
+    margin-top: 150px;
+    letter-spacing: 1px;
+
+}
+
+.container3 h2 p {
+    margin-top: 150px;
+
+
+}
+
+.container3 h2 {
+    margin-top: 140px;
+
+}
+
+p {
+    font-size: 14px;
+    color: rgba(0, 0, 0, 0.785);
+    padding: 20px 0px;
+}
+
+
+.image{
+    margin-top: 30px;
+}
+
+.row5 .container5 {
+    text-align: center;
+    
+    color: black;
+    font-size: 16px;
+}
+.row5 .container5 {
+    text-align: center;
+    
+}
+
+
+
+.container5 {
+    width: 80%;
+    margin: 0px auto;
+    
+    
+}
+
+
+.row5 .container5 h1, p{
+    color: black;
+    
+    
+}
+
+  .img1, .img2, .img3, .pan{
+    color: green;
+
+}
+.row5 .container5 .third{
+    text-align: center;
+    margin-top: 30px;
+}
+
+
+.row5 .container6{
+    display: flex;
+    width: 80%;
+    margin: 0px auto;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 50px;
+    font-size: 15px;
+    
+}
+.row5 .container6  .head{
+    color:black;
+}
+
+.ashraf{
+    height: 500px;
+    color: white;
+}
+
+.img3, .img2, .img1, .spa{
+    color: rgba(0, 0, 0, 0.612);
+    font-size: 14px;
+}
+
+ .btn2{
+    
+    color:white;
+    background-color: #f41606;
+    border: none;
+    float: right;
+    border-radius: 50%;
+    font-weight: bolder;
+}
+
+.img3, .img2, .img1 {
+    
+    box-shadow: 10px 10px 12px 13px white;
+}
+
+.row5{
+    margin-top: 100px;
+}
+.img1 img{
+    margin-top: 50px;
+}
