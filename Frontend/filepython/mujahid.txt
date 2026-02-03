@@ -1,4 +1,0 @@
-hello everyone
- my name is shaklain
- now i am learning
- file handling
